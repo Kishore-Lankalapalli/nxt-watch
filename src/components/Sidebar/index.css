@@ -1,0 +1,16 @@
+.home-icon {
+  height: 15px;
+  width: 15px;
+  color: #424242;
+  margin-right: 20px;
+}
+
+.active-icon {
+  color: #ff0b37;
+  height: 15px;
+  width: 15px;
+  margin-right: 20px;
+}
+.link-element {
+  text-decoration: none;
+}

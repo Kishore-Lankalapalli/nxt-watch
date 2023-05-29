@@ -1,0 +1,29 @@
+.video-player {
+  height: 300px;
+  width: 100%;
+}
+
+.like-icon {
+  height: 22px;
+  width: 22px;
+  margin-right: 10px;
+}
+
+#saved-icon {
+  height: 22px;
+  width: 22px;
+  margin-right: 10px;
+  color: #3b82f6;
+}
+#saved-video-item {
+  color: #3b82f6;
+}
+.like-color {
+  color: #3b82f6;
+}
+.loader-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
